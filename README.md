@@ -4,5 +4,7 @@ I'm way too old to be strating out at this but it's pretty fun so I'm going to b
 
 I've learn JavaScript, a tiny bit of Python, HTML, CSS, JSX React.js Node.js and a few other little bit and now I hope to wow you all with me ongoing output of gold
 pure gold!
+
+Check out my Hangman-React-redux app, I'm pretty proud of it!
 .
 -->
